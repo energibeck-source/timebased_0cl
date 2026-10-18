@@ -1,0 +1,11 @@
+# compiled binary
+/timebased_0cl
+timebased_0cl.exe
+
+# local scratch / captured samples (may contain real targets)
+req
+resp.txt
+
+# runtime artifacts
+*.log
+*.jsonl
